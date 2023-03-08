@@ -1,3 +1,5 @@
 This is the first line in this great new book...
 
 Chapter 1:
+
+It was a warm afternoon in Cape Town
